@@ -22,4 +22,5 @@ object Shopping extends App {
   }
 println(s"£ $total")
 
+
 }
